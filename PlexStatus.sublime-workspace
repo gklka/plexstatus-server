@@ -1,0 +1,895 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"device_name"
+			],
+			[
+				"re",
+				"require_POST"
+			],
+			[
+				"sec",
+				"section_enum_name"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"ar",
+				"arg_number"
+			],
+			[
+				"send",
+				"send_interval"
+			],
+			[
+				"bo",
+				"boat_name"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"Con",
+				"ConferenceAdmin"
+			],
+			[
+				"Sec",
+				"SectionAdmin"
+			],
+			[
+				"s",
+				"speed"
+			],
+			[
+				"tra",
+				"track"
+			],
+			[
+				"tes",
+				"testuser_number"
+			],
+			[
+				"min",
+				"minutes"
+			],
+			[
+				"tim",
+				"timedelta"
+			],
+			[
+				"vir",
+				"virtual_time"
+			],
+			[
+				"ori",
+				"original_time"
+			],
+			[
+				"or",
+				"original_time"
+			],
+			[
+				"lon",
+				"longitude_delta"
+			],
+			[
+				"bas",
+				"base_logitude"
+			],
+			[
+				"la",
+				"latitude_delta"
+			],
+			[
+				"gp",
+				"gpx_filename"
+			],
+			[
+				"r",
+				"rainbow"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"st",
+				"start_time"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"track",
+				"trackpoint"
+			],
+			[
+				"ur",
+				"url_base"
+			],
+			[
+				"g",
+				"gpx_filename"
+			],
+			[
+				"pre",
+				"previous_trackpoint"
+			],
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"post",
+				"post_data"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"grou",
+				"group"
+			],
+			[
+				"gro",
+				"group"
+			],
+			[
+				"gr",
+				"group_id"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"regatta",
+				"regatta_id"
+			],
+			[
+				"rece",
+				"receiver_string"
+			],
+			[
+				"__",
+				"__class__"
+			],
+			[
+				"url_",
+				"url_part"
+			],
+			[
+				"ver",
+				"verbose"
+			],
+			[
+				"res",
+				"response_json"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"pos",
+				"post_data"
+			],
+			[
+				"net",
+				"network_request"
+			],
+			[
+				"use",
+				"user_token"
+			],
+			[
+				"url",
+				"url_part"
+			],
+			[
+				"Tra",
+				"TrackPoint"
+			],
+			[
+				"R",
+				"regatta_id"
+			],
+			[
+				"b",
+				"battery"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"us",
+				"user_token"
+			],
+			[
+				"coo",
+				"coordinate2"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"prev",
+				"previous_points"
+			],
+			[
+				"ne",
+				"next_coord"
+			],
+			[
+				"pr",
+				"previous_point"
+			],
+			[
+				"pro",
+				"profile_update"
+			],
+			[
+				"regi",
+				"registered"
+			],
+			[
+				"jo",
+				"join"
+			],
+			[
+				"reg",
+				"register"
+			],
+			[
+				"log",
+				"loggedin"
+			],
+			[
+				"las",
+				"last_points"
+			],
+			[
+				"Ex",
+				"Exception"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"wh",
+				"whatever"
+			],
+			[
+				"to",
+				"token"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"kwindoo",
+				"kwindoobeta"
+			],
+			[
+				"sour",
+				"SOURCE_CHECK_INTERVAL"
+			],
+			[
+				"p",
+				"point"
+			],
+			[
+				"xml",
+				"xml_response"
+			],
+			[
+				"SE",
+				"SENDER_URL"
+			],
+			[
+				"sende",
+				"SENDER_URL"
+			],
+			[
+				"e",
+				"errorchar"
+			],
+			[
+				"temp",
+				"templateURL"
+			],
+			[
+				"TC",
+				"TCP_PORT"
+			],
+			[
+				"mar",
+				"markers"
+			],
+			[
+				"rown",
+				"row_enum_name"
+			],
+			[
+				"sect",
+				"section_enum_name"
+			],
+			[
+				"section",
+				"section_enum_name"
+			],
+			[
+				"sectio",
+				"section_enum_name"
+			],
+			[
+				"row",
+				"row_enum_name"
+			],
+			[
+				"ro",
+				"row_enum_name"
+			],
+			[
+				"se",
+				"sections"
+			],
+			[
+				"treat",
+				"treatmentClosed"
+			],
+			[
+				"treatment",
+				"treatmentTypes"
+			],
+			[
+				"api",
+				"api_value_name"
+			],
+			[
+				"titl",
+				"title"
+			],
+			[
+				"vla",
+				"value_big"
+			],
+			[
+				"values",
+				"Values"
+			],
+			[
+				"unde",
+				"undefined_big"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"valu",
+				"values"
+			],
+			[
+				"title",
+				"title_small_first"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "pyth",
+		"selected_items":
+		[
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"obje",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"j",
+				"Set Syntax: JSON"
+			],
+			[
+				"pyto",
+				"Set Syntax: Python"
+			],
+			[
+				"mark",
+				"MarkdownEditing: New Image"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/plexstatus-1/api/management/commands/__init__.py",
+		"/Volumes/plexstatus-1/api/management/__init__.py",
+		"/Users/gk/Developer/iOS/Kwindoo/Flexi-Dent iPad/Pods/Target Support Files/Pods-Flexi-Dent iPad/Pods-Flexi-Dent iPad-frameworks.sh",
+		"/Users/gk/Desktop/Flexi-Dent iPad/hu.lproj/Main.strings",
+		"/Users/gk/Desktop/Mail Attachment.ics",
+		"/Users/gk/Developer/iOS/GKSoftware/GKActionSheetPicker/Pod/Assets/countries.json",
+		"/usr/local/bin/xcode-unsign",
+		"/usr/local/bin/xcode-sign",
+		"/usr/bin/xcode-sign",
+		"/Users/gk/Developer/iOS/Kwindoo/USCShoah/CHANGELOG.md",
+		"/Users/gk/Developer/iOS/Kwindoo/USCShoah/README.md",
+		"/Users/gk/Developer/iOS/Kwindoo/USCShoah/.gitignore",
+		"/Users/gk/Developer/iOS/Kwindoo/USCShoah/Podfile",
+		"/etc/hosts",
+		"/Users/gk/Desktop/index.html",
+		"/Users/gk/Desktop/proba.json",
+		"/Users/gk/Downloads/treatment_entity.txt",
+		"/Users/gk/Library/Application Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin/Contents/Info.plist",
+		"/Users/gk/Developer/Assets/fogkepek_repo/.git/info/sparse-checkout",
+		"/Users/gk/Developer/iOS/Kwindoo/Flexi-Dent iPad/.gitignore",
+		"/Users/gk/Library/Preferences/com.apple.finder.plist.0R26Rtq",
+		"/Users/gk/Downloads/WenderCast-Starter/WenderCastPush/contentpush.php",
+		"/Users/gk/Dropbox/Assets/Tools/enumtableviewgenerator.py",
+		"/Users/gk/Dropbox/Assets/Tools/nsenumgenerator.py",
+		"/Users/gk/Downloads/contacts.vcf",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/MultiTrackSimulator.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/TrackSimulator.py",
+		"/Users/gk/Desktop/A kiválasztott számlával ez .textClipping",
+		"/Users/gk/Desktop/Screen Shot 2016-09-23 at 15.39.39.png",
+		"/Users/gk/Desktop/alkalmazas_szovegei.docx",
+		"/Users/gk/Desktop/Flexi.csv",
+		"/Users/gk/Developer/iOS/Kwindoo/Patients/Patients.xcodeproj/project.pbxproj",
+		"/etc/ssh/ssh_config",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/old/LiveSimulator.py",
+		"/Users/gk/Desktop/proba/dentalworld/dw/migrations/0002_section_conference.py",
+		"/Users/gk/.profile",
+		"/Users/gk/Desktop/x.c",
+		"/Users/gk/Developer/iOS/Kwindoo/KwindooLive/KwindooLive.xcodeproj/project.pbxproj",
+		"/Users/gk/Developer/iOS/Kwindoo/KwindooLive/KwindooLive.xcworkspace/contents.xcworkspacedata",
+		"/Users/gk/Developer/iOS/Kwindoo/Kwindoo/Kwindoo.xcodeproj/project.pbxproj",
+		"/Users/gk/Developer/iOS/Kwindoo/Leletezo/Podfile",
+		"/Users/gk/Developer/iOS/Kwindoo/Patients/Patients/Categories/UIColor+FDCustomColors.m",
+		"/Users/gk/Developer/iOS/Kwindoo/Patients/Patients/Categories/UIColor+FDCustomColors.h",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/engine/TrackPoint.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/engine/Track.py",
+		"/Volumes/Plex/TVShows/Stranger.Things/Stranger.Things.S01.720p.NF.WEBRip.x264-NTb/Stranger.Things.S01E01.720p.NF.WEBRip.x264-NTb.hu.srt",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/engine/SendWorker.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/engine/RainbowTrack.py",
+		"/Users/gk/.homestead/Homestead.yaml",
+		"/Volumes/Plex/TVShows/Stranger.Things/Stranger.Things.S01.720p.NF.WEBRip.DD5.1.x264-NTb/Stranger.Things.S01E08.720p.NF.WEBRip.DD5.1.x264-NTb.hu.srt",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/MassSender.py",
+		"/Users/gk/Developer/Python/Kwindoo/ExportGPX/exportgpx.py",
+		"/private/etc/my.cnf",
+		"/usr/local/mysql/data/mysqld.local.err",
+		"/etc/host",
+		"/Users/gk/Desktop/SequelProFavorites.plist",
+		"/Users/gk/Developer/OSX/Kwindoo/KwindooLiveOSX/Podfile",
+		"/Users/gk/Desktop/x.py",
+		"/Users/gk/Desktop/valami.txt",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/Joiner.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/ExternalCoordinateImporter.py",
+		"/Users/gk/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/gk/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/README.md",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/engine/QueueWorker.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/GPX/4.gpx",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/GPX/1.gpx",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/GPX/2.gpx",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/GPX/3.gpx",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/GPX/RSM-DTM.gpx",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/GPX/Raffica.gpx",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/GPX/FiftyFifty.gpx",
+		"/Users/gk/Developer/Python/Kwindoo/AddBearings/addbearings.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/GetBoatData.py",
+		"/Users/gk/Developer/node.js/socket-test/app.js",
+		"/Users/gk/Developer/node.js/socket-test/index.html",
+		"/Users/gk/Developer/iOS/Test/SocketTest/Podfile",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/old/Login.py",
+		"/Users/gk/Desktop/addbearings.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/masssender.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/engine/Network.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/Register.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/XMLSender.py",
+		"/Users/gk/Desktop/kwindoo.xml",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/old/Inviter.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/sudo",
+		"/Users/gk/Dropbox/Kwindoo/Kwindoo GK/XML/kwindoo.xml",
+		"/Users/gk/Desktop/player-inside-full3.php?userid=mtva&streamid=mtv1live&flashmajor=22&flashminor=0&hls=1",
+		"/Users/gk/Desktop/player-inside-full3.php?userid=mtva&streamid=mtv2live&flashmajor=22&flashminor=0&hls=1",
+		"/Users/gk/Desktop/player-inside-full3.php?userid=mtva&streamid=dunalive&flashmajor=22&flashminor=0&hls=1",
+		"/Users/gk/Desktop/player-inside-full3.php?userid=mtva&streamid=dunaworldlive&flashmajor=22&flashminor=0&hls=1",
+		"/Users/gk/Developer/iOS/GKSoftware/MagyarTV/Podfile",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/network.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/mass_ships.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/tracksimulator.py",
+		"/Users/gk/kwindoo.hrd",
+		"/Users/gk/Desktop/prockeys.sh",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/massjoiner.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/ship_sender_worker.py",
+		"/Users/gk/Desktop/hello.c",
+		"/Users/gk/Desktop/Hello.java",
+		"/Users/gk/Desktop/HelloWorld.class",
+		"/Users/gk/Desktop/hello",
+		"/Users/gk/Desktop/hello.py",
+		"/Users/gk/hello.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/send_test.py",
+		"/Users/gk/Developer/Python/Kwindoo/KwindooTrackSimulator/webmasssender.py",
+		"/Users/gk/Desktop/xxxx.json",
+		"/Users/gk/Desktop/minified.json",
+		"/Users/gk/Desktop/xx.html",
+		"/Users/gk/Desktop/x.html",
+		"/Users/gk/Developer/iOS/Kwindoo/KwindooLive/Podfile",
+		"/Users/gk/Desktop/Flexi-Dent iPad/CHANGELOG.md",
+		"/Users/gk/Desktop/details.json",
+		"/Users/gk/Desktop/CocoaPodsTest/Podfile",
+		"/Users/gk/Desktop/Flexi-Dent iPad/LICENSE",
+		"/Users/gk/Desktop/Flexi-Dent iPad/Podfile",
+		"/Volumes/Disk3/Plex/TVShows/Game.of.Thrones/S06/Game.of.Thrones.S06E10.720p.HDTV.x264-AVS/Game.of.Thrones.S06E10.720p.HDTV.x264-AVS.hu.srt",
+		"/Library/WebServer/Documents/magyartv/templates/HelloWorld.xml",
+		"/Library/WebServer/Documents/magyartv/templates/NextPage.xml",
+		"/Library/WebServer/Documents/magyartv/templates/PageNavigation.xml",
+		"/Library/WebServer/Documents/magyartv/images.json",
+		"/Library/WebServer/Documents/magyartv/application.js",
+		"/Library/WebServer/Documents/magyartv/Navigation.js",
+		"/Library/WebServer/Documents/magyartv/Images.js",
+		"/Library/WebServer/Documents/magyartv/Video.js",
+		"/Library/WebServer/Documents/magyartv/PageNavigation.xml",
+		"/Library/WebServer/Documents/magyartv/HelloWorld.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"x.json",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"tr_done\"",
+			"tr_done",
+			"is_",
+			"\\",
+			" ",
+			"self.track",
+			"RainbowTrack",
+			" ",
+			"interval",
+			"SEND_INTERVAL",
+			"Subject",
+			"Patients copy",
+			" copy",
+			"\"type\" : null",
+			"catamaran",
+			"\"type\" : ",
+			"login",
+			"Threading",
+			"Thre",
+			"KwindooLive copy-Info.plist",
+			".plist",
+			"Kwindoo copy",
+			" copy",
+			"Kwindoo copy-Info.plist",
+			" copy",
+			"deleted",
+			"Archarmonia copy",
+			" copy",
+			"copy",
+			"2",
+			"passwo",
+			"previous_points",
+			"virtual_time",
+			"last_added",
+			"time_difference_cache",
+			"virtual_stat_time",
+			"fist_trackpoint",
+			"multirun",
+			"worker",
+			"speed",
+			"beta",
+			"Successfully sent %s",
+			"TrackSimulatorThread",
+			" Request",
+			"Request",
+			"user_dna",
+			"Point(",
+			"last_points[",
+			"last_points",
+			"send_point_or_register",
+			"self.verb",
+			"self.ver",
+			"print",
+			"\n\t\t\t",
+			"\n\t\t",
+			"password",
+			"num",
+			"<source src=",
+			"iframe",
+			"video",
+			"network",
+			"\\",
+			" ",
+			"\\n",
+			"  ",
+			"\\t",
+			"\\t\\t",
+			"  ",
+			"?",
+			"finish",
+			"dental reg",
+			"\\",
+			"prefix",
+			"hola",
+			"2016/06/11 23:40",
+			"ProtectedTimeline-heading",
+			"védett",
+			"printe",
+			"sans",
+			"open",
+			"\\",
+			"dr_id",
+			"\\/",
+			"_id",
+			"receiver",
+			"patient",
+			"creat",
+			"chair",
+			"doctor",
+			"patient",
+			"comment",
+			"Default",
+			"String"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" ",
+			"",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 71.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mo",
+				"MultiTrackSimulator.py"
+			],
+			[
+				"impot",
+				"ExternalCoordinateImporter.py"
+			],
+			[
+				"mult",
+				"MultiTrackSimulator.py"
+			],
+			[
+				"jon",
+				"Joiner.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
