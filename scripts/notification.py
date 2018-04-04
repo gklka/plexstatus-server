@@ -25,7 +25,8 @@ if args.poster:
 os.system('../manage.py torrent_push --badge %s' % args.count)
 
 if args.action == 'Play':
-	os.system('../manage.py torrent_push --title "%s" --body "Started %s" --attachment "%s" --sound "Default"' % (args.user, args.title, args.poster))
+	os.system(u"""../manage.py torrent_push --title "%s" --body "Started %s" --attachment "%s" --sound "Default" """ % (args.user, args.title, args.poster))
+	os.system(u"""curl -X POST -u "1aff99da268d41edb0660f23cedba922:1cc4cf73218548b9adbb9b5746b40bb3" -H "Content-Type: application/json" --data "{\"alert\": \"%s tarted %s\", \"url\": \"http://gk.lka.hu/hitchcock_push/forward.html\"}" https://go.goroost.com/api/push""" % (args.user, args.title))
 elif args.action == 'Stop':
 	pass
 	# os.system('../manage.py torrent_push --title "%s" --body "Stopped %s" --attachment "%s"' % (args.user, args.title, args.poster))

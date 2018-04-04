@@ -125,6 +125,10 @@ STATIC_ROOT = 'static/'
 
 PUSH_NOTIFICATIONS_SETTINGS = {
 	"APNS_CERTIFICATE": "/opt/plexstatus/certs/apns-prod-ios.pem",
+#    "APNS_CERTIFICATES": [
+#	"/opt/plexstatus/certs/apns-prod-ios.pem",
+#	"/opt/plexstatus/certs/apns-dev-mac.pem",
+#    ]
     # "APNS_HOST": "gateway.sandbox.push.apple.com"
     # "APNS_HOST": "gateway.push.apple.com"
 }
